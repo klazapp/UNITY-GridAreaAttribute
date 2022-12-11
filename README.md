@@ -27,7 +27,7 @@ This system allows a developer to easily set the values of the list of int2 with
 Normal List<int2> Property             |  Custom List<int2> Property
 :-------------------------:|:-------------------------:
 ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png)  |  ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaAttribute.png)  
-This is a usual display of a List property in Unity | This is how a List is displayed by using a custom property attribute
+This is a usual display of a List property in Unity | This is a display of a List property using the custom property attribute
 
 
 <br />
