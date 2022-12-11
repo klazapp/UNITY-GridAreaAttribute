@@ -24,6 +24,10 @@ This system allows a developer to easily set the values of the list of int2 with
 ## Showcase
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png)  |  ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaAttribute.png)
+
 ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png) ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaAttribute.png)
 
 This gif shows that the player moves to the clicked target point using the pathfinding system
