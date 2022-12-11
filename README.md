@@ -24,7 +24,7 @@ This system allows a developer to easily set the values of the list of int2 with
 ## Showcase
 
 
-Solarized dark             |  Solarized Ocean
+Normal List<int2> Property             |  Custom List<int2> Property
 :-------------------------:|:-------------------------:
 ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png)  |  ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaAttribute.png)
 
